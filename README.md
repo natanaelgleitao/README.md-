@@ -8,6 +8,8 @@
 
 
 ![FuturoDevNatanael GitHub stats](https://github-readme-stats.vercel.app/api?username=FuturoDevNatanael&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuturoDevNatanael&layout=compact)
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
