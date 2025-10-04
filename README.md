@@ -1,4 +1,4 @@
-## Oii! Eu sou Natanael-Dev✋
+## Oii! Eu sou natanael-dev✋
 
 - 🔭 Estudante de Front-end
 - 🌱 A procura de Estagio
