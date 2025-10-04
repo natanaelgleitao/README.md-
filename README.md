@@ -7,8 +7,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](gomesleitaodasilvan661@gmail.com)
 
 
-![FuturoDevNatanael GitHub stats](https://github-readme-stats.vercel.app/api?username=FuturoDevNatanael&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuturoDevNatanael&layout=compact)
+![natanael-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=natanael-dev&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-dev&layout=compact)
 
 
 ## Tecnologias que eu uso no meu dia a dia
