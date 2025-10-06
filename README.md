@@ -1,23 +1,49 @@
-## Oii! Eu sou natanael-dev✋
+<h1 align="center">👋 Olá, eu sou o Natanael Gomes Leitão da Silva</h1>
 
-- 🔭 Estudante de Front-end
-- 🌱 A procura de Estagio
+<p align="center">
+  🎯 <strong>Front-end em formação</strong> | Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  💻 Apaixonado por tecnologia, design e desenvolvimento web.
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-gomes-designer)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](gomesleitaodasilvan661@gmail.com)
+---
 
+### 🧠 Sobre mim
 
-![natanael-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=natanael-dev&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanael-dev&layout=compact)
+Sou estudante da área de **Front-end**, atualmente aprendendo a criar interfaces modernas e responsivas com **HTML**, **CSS** e **JavaScript**.  
+Busco minha **primeira oportunidade ou estágio** para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento web.
 
+---
 
-## Tecnologias que eu uso no meu dia a dia
+### 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
- <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
- </div><br/>
- 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📚 Atualmente aprendendo
+- Desenvolvimento de layouts e componentes reutilizáveis  
+- Boas práticas em HTML, CSS e JavaScript  
+- Versionamento de código com Git e GitHub  
+
+---
+
+### 📫 Contato
+
+📧 **E-mail:** [natanaelti100@gmail.com]  
+💼 **LinkedIn:** [www.linkedin.com/in/natansilvadev] 
+
+---
+
+### ✨ Curiosidades
+- Gosto de aprender coisas novas todos os dias  
+- Tenho interesse em desenvolvimento web e design digital  
+- Acredito que cada projeto é uma nova oportunidade de evolução  
+
+---
+
+<p align="center">
+  💡 <em>"A prática leva à evolução. Cada linha de código é um passo a mais no aprendizado."</em>
+</p>
+
